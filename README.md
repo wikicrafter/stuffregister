@@ -11,6 +11,6 @@
 # Program supports WindowsOS soon it will support all Linux distribution 
 ___________________________________________________________________________
 
- Thanks for using gvision company software.
+ Thanks for using my  software.
  I hope it will make your work easier and smoother 
 
