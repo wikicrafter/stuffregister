@@ -3,7 +3,7 @@
  Before using this program you must to create in D:\ directory excel file nmaed "stuffregister"
  after that you can use it as long as you want.
 
- სანამ ამ პროგრამას გამოიყენებთ თქვენ უნდა შექმნათ D:\ დისკის დირექტორიაში ექსელის ფაილი "stuffregister" დასახელებით ამი შემდეგ შეგიძლიათ გამოიყენოთ პროგრამა იმდენ ხანც რამედნი ხანიც გსურთ.
+ სანამ ამ პროგრამას გამოიყენებთ თქვენ უნდა შექმნათ D:\ დისკის დირექტორიაში ექსელის ფაილი "stuffregister" დასახელებით ამის შემდეგ შეგიძლიათ გამოიყენოთ პროგრამა იმდენ ხანც რამედენი ხანიც გსურთ.
 
 # additional tips:
  1. when you using this program that excel file must be closed.
